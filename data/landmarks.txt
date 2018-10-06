@@ -1,0 +1,19 @@
+The order of the landmarks is:
+
+0.  topHead
+1.  centerHead
+2.  frontHead
+3.  backHead
+4.  rightHead
+5.  leftHead
+6.  rightVentInner 
+7.  rightVentOuter 
+8.  leftVentInner
+9.  leftVentOuter
+10. rightCerebellar 
+11. leftCerebellar
+12. CSP
+13. midpointCSP
+14. rightEye
+15. leftEye
+
